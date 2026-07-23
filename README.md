@@ -7,6 +7,10 @@
   <a href="https://github.com/kush2439p?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-learning%20in%20public-22c55e?style=for-the-badge" alt="Learning in public" /></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kush2439p/kush2439p/main/github-metrics.svg" alt="Kush's GitHub metrics" width="100%" />
+</p>
+
 ## About me
 
 I am a Java and backend developer focused on building reliable applications and improving through real open-source contributions. I enjoy tracing bugs to their root cause, making small focused fixes, and protecting them with tests.
