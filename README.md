@@ -122,27 +122,18 @@ I enjoy making focused contributions upstream and learning from mature codebases
   </tr>
 </table>
 
-## GitHub at a glance 📊
+## Contribution animation 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kush2439p/kush2439p/main/github-metrics.svg" alt="Kush's GitHub metrics" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kush2439p/kush2439p/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kush2439p/kush2439p/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving through Kush's GitHub contribution graph" src="https://raw.githubusercontent.com/kush2439p/kush2439p/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kush2439p&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&ring_color=0e7490" alt="Kush's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush2439p&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Kush's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush2439p&bg_color=0d1117&color=7dd3fc&line=22c55e&point=ffffff&area=true&hide_border=true" alt="Kush's contribution activity" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kush2439p&hide_border=true&background=00000000&ring=0e7490&fire=22c55e&currStreakLabel=0e7490" alt="Kush's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <sub>Live cards use public GitHub data and may take a short time to refresh.</sub>
+  <sub>Generated daily by GitHub Actions from public contribution activity.</sub>
 </p>
 
 ## Let's connect 🤝
